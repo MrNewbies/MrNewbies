@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-alpha-six-99.vercel.app/]
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-alpha-six-99.vercel.app/)
 
 - 📫 How to reach me **putrapanca21@gmail.com**
 
